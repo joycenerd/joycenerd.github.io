@@ -58,7 +58,7 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-    
+
     {% if post.paperurl %}
       <a href="{{ post.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
     {% endif %}
@@ -68,7 +68,8 @@
     {% if post.youtube %}
         <a href="{{ post.youtube }}" target="_blank"><i class="fab fa-fw fa-youtube zoom" aria-hidden="true"></i></a>
     {% endif %}
-
-
+    {% if post.slide %}
+        <a href="{{ post.slide }}" target="_blank"><i class="fas fa-fw fa-file-powerpoint zoom" aria-hidden="true"></i></a>
+    {% endif %}
   </article>
 </div>
