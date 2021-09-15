@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhi Yi Chin / Joyce's personal website"
+title                    : "Zhi Yi Chin"
 title_separator          : "-"
 name                     : &name "Zhi-Yi Chin"
 description              : &description "CS MEng student @ NYCU. BS in CS @ CCU. Interested in computer vision."
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "BZB7VMPsgifFSRWQ1YKLvpOilw7eq18wHEUpgQDUfYA"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    :
-  email            : "joycenerd.cs09@nycu.edu.tw"
+  email            : joycenerd.cs09@nycu.edu.tw
   github           : "joycenerd"
   linkedin         : "zhi-yi-chin-b7927645"
   twitter          : "JoyceChin14"
