@@ -1,5 +1,5 @@
 ---
-title: Lane Detection
+title: Generative Models as a Data Augmentation for Classification
 collection: projects
 type: "Final Project"
 permalink: /projects/gen_aug
