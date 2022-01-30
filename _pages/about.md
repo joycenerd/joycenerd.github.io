@@ -14,6 +14,13 @@ Welcome to my academic website. I am Zhi-Yi Chin from Taiwan, and I am currently
 
 <table>
   <tr>
+    <td><img src="/images/genaug.png" width="500"></td>
+    <td style="font-size: 17px; line-height: 1.4em;">
+      <a href="/projects/gen_aug" target="_blank"><strong>Generative Models as a Data Augmentation for Classification</strong></a><br/><strong>Zhi-Yi Chin</strong>, Chieh-Ming Jiang.<br/>Final project in <i>Deep Learning and Practice  2021 Summer</i><br/>We investigate image transformation by exploring walks in the latent space of GAN, which is called GAN steer. We conclude that GAN steerability is a better data augmentation technique compare to transformation done in the data space.<br/><a href="https://github.com/joycenerd/genrep_aug" target="_blank"><i class="fab fa-fw fa-github zoom" aria-hidden="true"><a href="https://youtu.be/y-v_K0sf_lA" target="_blank"><i class="fab fa-fw fa-youtube zoom" aria-hidden="true"></i></a></i></a><a href="https://drive.google.com/file/d/1CFHCO4EvMaI3SkhEwThPgjzAdbFhxJF-/view?usp=sharing" target="_blank"><i class="fas fa-fw fa-file-powerpoint zoom" aria-hidden="true"></i></a>
+    </td>
+  </tr>
+
+  <tr>
     <td><img src="/images/hopper_mse.gif" width="500"></td>
     <td style="font-size: 17px; line-height: 1.4em;">
       <a href="/projects/mpo" target="_blank"><strong>Reimplemenatation Challenge -- Maximum a Posteriori Policy Optimisation</strong></a><br/><strong>Zhi-Yi Chin</strong>,Yi-Hsin Chen, Yu-Hsuan Li, Yu-Jie Chen.<br/>Reimplementation project in <i>Reinforcement Learning 2021 Spring</i><br/>Apart from replicating the algorithm from the paper, we also apply numerical tricks to stabilize the training process. Moreover, We are considering improving the method by modifying the E-step.<br/><a href="/files/Replication__MAXIMUM_A_POSTERIORI_POLICY_OPTIMISATION.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a><a href="https://github.com/joycenerd/MPO_Reimplementation" target="_blank"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a><a href="https://drive.google.com/file/d/1B-7gZG1zGAiyXOhbjj3MUnvqWFNYPmlD/view?usp=sharing" target="_blank"><i class="fas fa-fw fa-file-powerpoint zoom" aria-hidden="true"></i></a>
