@@ -2,7 +2,7 @@
 title: Lane Detection
 collection: projects
 type: "Final Project"
-permalink: /projects/lane_detect
+permalink: /projects/lane_detection
 venue: "National Yang Ming Chiao Tung University"
 date: 2021-06-28
 github: "https://github.com/joycenerd/CV-Lane_Detection"
