@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website. I am Zhi-Yi Chin from Taiwan, and I am currently a graduate student in the Institute of Computer Science and Engineering at National Yang Ming Chiao Tung University supervised by Prof. <a href="https://walonchiu.github.io" target="_blank">Wei-Chen(Walon)Chiu</a>. Before joining NYCU, I got my bachelor degree from National Chung Cheng University supervised by Prof. <a href="https://www.cs.ccu.edu.tw/~ckchiang/" target="_blank">Chen-Kuo(Adrian)Chiang</a>. 
+I am a research assistant at National Yang Ming Chiao Tung University (NYCU) in Taiwan, where I specialize in the field of machine learning model safety, with a particular focus on multimodal applications. I have had the privilege of working alongside Professor [Wei-Chen (Walon) Chiu](https://walonchiu.github.io) at NYCU and collaborating with Dr. [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage) on cutting-edge research in this domain.
+
+My academic journey led me to NYCU, where I completed my Master of Science degree under the guidance of Professor [Wei-Chen (Walon) Chiu](https://walonchiu.github.io). Prior to that, I earned my Bachelor of Science degree from National Chung Cheng University, where I had the privilege of being advised by Professor [Chen-Kuo (Adrian) Chiang](https://www.cs.ccu.edu.tw/~ckchiang/).
+
+I am passionate about advancing the field of machine learning and model safety, and I am committed to making meaningful contributions to this exciting and rapidly evolving field. Please feel free to explore my academic journey and research interests on this website. 
 
 ## Projects
 
@@ -71,6 +75,8 @@ Welcome to my academic website. I am Zhi-Yi Chin from Taiwan, and I am currently
 </table>
 
 ## Publications
+
+For a comprehensive list of my publications, please refer to my Curriculum Vitae (CV).
 
 <table>
   <tr>
