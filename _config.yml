@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhi Yi Chin"
 title_separator          : "-"
 name                     : &name "Zhi-Yi Chin"
-description              : &description "CS MSc student @ NYCU. BS in CS @ CCU. Interested in computer vision, especially in self-supervised learning."
+description              : &description "RA @ NYCU EVA Lab work on multimodel model safety. MSc in CS @ NYCU. BS in CS @ CCU."
 url                      : https://joycenerd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joycenerd/joycenerd.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhi-Yi Chin"
   avatar           : "profile-pic.png"
-  bio              : "CS MSc student @ NYCU. BS in CS @ CCU. Interested in computer vision, expecially in self-supervised learning."
+  bio              : "RA @ NYCU EVA Lab work on multimodel model safety. MSc in CS @ NYCU. BS in CS @ CCU."
   location         : "Hsinchu, Taiwan"
   employer         :
   pubmed           : 
