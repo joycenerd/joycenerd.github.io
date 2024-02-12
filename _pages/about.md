@@ -14,6 +14,32 @@ My academic journey led me to NYCU, where I completed my Master of Science degre
 
 I am passionate about advancing the field of machine learning and model safety, and I am committed to making meaningful contributions to this exciting and rapidly evolving field. Please feel free to explore my academic journey and research interests on this website. 
 
+## Publications
+For a comprehensive list of my publications, please refer to my Curriculum Vitae (CV). \
+($^\dagger$ indicates equal contribution)
+<table>
+  <tr>
+    <td><img src="/images/p4d_teaser.png" width="200"></td>
+    <td style="font-size: 17px; line-height: 1.4em;">
+      <a href="https://arxiv.org/abs/2309.06135" target="_blank"><strong>Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding Problematic Prompts</strong></a><br/><strong>Zhi-Yi Chin</strong><sup>&dagger;</sup>, Chieh-Ming Jiang<sup>&dagger;</sup>, Pin-Yu Chen, Ching-Chun Huang, Wei-Chen Chiu<br/><i>arXiv 2023</i><br/><a href="https://joycenerd.github.io/prompting4debugging/" target="_blank"><i class="fa fa-fw fa-home zoom" aria-hidden="true"></i></a><a href="https://github.com/joycenerd/P4D" target="_blank"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="/images/saliency_guided_masking_teaser.png" width="200"></td>
+    <td style="font-size: 17px; line-height: 1.4em;">
+      <a href="https://arxiv.org/abs/2309.12757" target="_blank"><strong>Masking Improves Contrastive Self-Supervised Learning for ConvNets, and Saliency Tells You Where</strong></a><br/><strong>Zhi-Yi Chin</strong><sup>&dagger;</sup>, Chieh-Ming Jiang<sup>&dagger;</sup>, Pin-Yu Chen, Ching-Chun Huang, Wei-Chen Chiu<br/><i>In WACV 2024</i><br/><a href="https://github.com/joycenerd/Saliency-Guided-Masking-for-ConvNets" target="_blank"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a><a href="/files/wacv_saliency-guided-masking_poster.pdf" target="_blank"><i class="fa fa-fw fa-columns zoom" aria-hidden="true"></i></a><a href="https://youtu.be/wwUHfZecX7w" target="_blank"><i class="fab fa-fw fa-youtube zoom" aria-hidden="true"></i></a> 
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="/images/mtmc.png" width="200"></td>
+    <td style="font-size: 17px; line-height: 1.4em;">
+      <a href="https://openaccess.thecvf.com/content/CVPR2021W/AICity/papers/Li_Multi-Camera_Tracking_by_Candidate_Intersection_Ratio_Tracklet_Matching_CVPRW_2021_paper.pdf" target="_blank"><strong>Multi-Camera Tracking by Candidate Intersection Ratio Tracklet Matching</strong></a><br/>Yun-Lun Li, <strong>Zhi-Yi Chin</strong>, Ming-Ching Chang, Chen-Kuo Chiang.<br/><i>In CVPR Workshop 2021</i>
+    </td>
+  </tr>
+</table>
+
 ## Projects
 
 <table>
@@ -74,35 +100,9 @@ I am passionate about advancing the field of machine learning and model safety, 
   </tr>
 </table>
 
-## Publications
-For a comprehensive list of my publications, please refer to my Curriculum Vitae (CV). \
-($^\dagger$ indicates equal contribution)
-<table>
-  <tr>
-    <td><img src="/images/p4d_teaser.png" width="200"></td>
-    <td style="font-size: 17px; line-height: 1.4em;">
-      <a href="https://arxiv.org/abs/2309.06135" target="_blank"><strong>Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding Problematic Prompts</strong></a><br/><strong>Zhi-Yi Chin</strong><sup>&dagger;</sup>, Chieh-Ming Jiang<sup>&dagger;</sup>, Pin-Yu Chen, Ching-Chun Huang, Wei-Chen Chiu<br/><i>arXiv 2023</i><br/><a href="https://joycenerd.github.io/prompting4debugging/" target="_blank"><i class="fa fa-fw fa-home zoom" aria-hidden="true"></i></a><a href="https://github.com/joycenerd/P4D" target="_blank"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="/images/saliency_guided_masking_teaser.png" width="200"></td>
-    <td style="font-size: 17px; line-height: 1.4em;">
-      <a href="https://arxiv.org/abs/2309.12757" target="_blank"><strong>Masking Improves Contrastive Self-Supervised Learning for ConvNets, and Saliency Tells You Where</strong></a><br/><strong>Zhi-Yi Chin</strong><sup>&dagger;</sup>, Chieh-Ming Jiang<sup>&dagger;</sup>, Pin-Yu Chen, Ching-Chun Huang, Wei-Chen Chiu<br/><i>In WACV 2024</i><br/><a href="https://github.com/joycenerd/Saliency-Guided-Masking-for-ConvNets" target="_blank"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a><a href="/files/wacv_saliency-guided-masking_poster.pdf" target="_blank"><i class="fa fa-fw fa-columns zoom" aria-hidden="true"></i></a><a href="https://youtu.be/wwUHfZecX7w" target="_blank"><i class="fab fa-fw fa-youtube zoom" aria-hidden="true"></i></a> 
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="/images/mtmc.png" width="200"></td>
-    <td style="font-size: 17px; line-height: 1.4em;">
-      <a href="https://openaccess.thecvf.com/content/CVPR2021W/AICity/papers/Li_Multi-Camera_Tracking_by_Candidate_Intersection_Ratio_Tracklet_Matching_CVPRW_2021_paper.pdf" target="_blank"><strong>Multi-Camera Tracking by Candidate Intersection Ratio Tracklet Matching</strong></a><br/>Yun-Lun Li, <strong>Zhi-Yi Chin</strong>, Ming-Ching Chang, Chen-Kuo Chiang.<br/><i>In CVPR Workshop 2021</i>
-    </td>
-  </tr>
-</table>
-
 ## Honors
 
-* **Dean's list (5 times)**, Computer Science and Information Engineering Dept. at CCU, Fall '17, Spring '18, Fall '18, Spring '19, Fall '19
+* **Dean's list (6 times)**, Computer Science and Information Engineering Dept. at CCU, Fall '17, Spring '18, Fall '18, Spring '19, Fall '19, Spring '20
 * **College Student Research Scholarship**, get NT$ 48,000 from Ministry of Science and Technology, 2020
 * **Google Student Travel Scholarship**, scholarship to attend Grace Hopper Celebration, 2019
 
