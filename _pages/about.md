@@ -55,7 +55,7 @@ I am passionate about advancing the field of machine learning and model safety, 
   <tr>
     <td><img src="/images/mango_2.png" width="500"></td>
     <td style="font-size: 17px; line-height: 1.4em;">
-      <a href="/projects/mango" target="_blank"><strong>Mango Classification</strong></a><br/><strong>Zhi-Yi Chin</strong>, Tzu-Cheng Lin, Kung-Hao Chang, Yu-Chang Chen.<br/>Final project in <i>Machine Learning 2020 Spring</i><br/>Achieve accuracy 82.31% on the testing data and rank 8 in the public board in AICUP Mango Image Recognition Challenge: Grade Classification and Defective Classification.<br/><a href="https://drive.google.com/file/d/1vvNUUzQjSnW9sH7fi-XBtS0wj-JHNU6d/view?usp=sharing" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a><a href="https://github.com/joycenerd/AICUP_MangoClassification.git" target="_blank"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+      <a href="/projects/mango" target="_blank"><strong>Mango Classification</strong></a><br/><strong>Zhi-Yi Chin</strong>, Tzu-Cheng Lin, Kung-Hao Chang, Yu-Chang Chen.<br/>Final project in <i>Machine Learning 2020 Spring</i><br/>Achieve accuracy 82.31% on the testing data and rank 8 in the public board in AICUP Mango Image Recognition Challenge: Grade Classification and Defective Classification.<br/><a href="https://drive.google.com/file/d/1vvNUUzQjSnW9sH7fi-XBtS0wj-JHNU6d/view?usp=sharing" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a><a href="https://github.com/joycenerd/AICUP_MangoClassification" target="_blank"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </td>
   </tr>
 
@@ -75,10 +75,23 @@ I am passionate about advancing the field of machine learning and model safety, 
 </table>
 
 ## Publications
-
-For a comprehensive list of my publications, please refer to my Curriculum Vitae (CV).
-
+For a comprehensive list of my publications, please refer to my Curriculum Vitae (CV). \
+($^\dagger$ indicates equal contribution)
 <table>
+  <tr>
+    <td><img src="/images/p4d_teaser.pdf" width="200"></td>
+    <td style="font-size: 17px; line-height: 1.4em;">
+      <a href="https://arxiv.org/abs/2309.06135" target="_blank"><strong>Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding Problematic Prompts</strong></a><br/><strong>Zhi-Yi Chin</strong><sup>&dagger;</sup>, Chieh-Ming Jiang<sup>&dagger;</sup>, Pin-Yu Chen, Ching-Chun Huang, Wei-Chen Chiu<br/>arXiv 2023</i><br/><a href="https://joycenerd.github.io/prompting4debugging/" target="_blank"><i class="fab fa-fw fa-home zoom" aria-hidden="true"></i></a><a href="https://github.com/joycenerd/P4D" target="_blank"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="/images/saliency_guided_masking_teaser.pdf" width="200"></td>
+    <td style="font-size: 17px; line-height: 1.4em;">
+      <a href="https://arxiv.org/abs/2309.12757" target="_blank"><strong>Masking Improves Contrastive Self-Supervised Learning for ConvNets, and Saliency Tells You Where</strong></a><br/><strong>Zhi-Yi Chin</strong><sup>&dagger;</sup>, Chieh-Ming Jiang<sup>&dagger;</sup>, Pin-Yu Chen, Ching-Chun Huang, Wei-Chen Chiu<br/>arXiv 2023</i><br/><a href="https://github.com/joycenerd/Saliency-Guided-Masking-for-ConvNets" target="_blank"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a><a href="/files/wacv_saliency-guided-masking_poster.pdf" target="_blank"><i class="fab fa-fw fa-columns zoom" aria-hidden="true"></i></a><a href="https://youtu.be/wwUHfZecX7w" target="_blank"><i class="fab fa-fw fa-youtube zoom" aria-hidden="true"></i></a> 
+    </td>
+  </tr>
+
   <tr>
     <td><img src="/images/mtmc.png" width="200"></td>
     <td style="font-size: 17px; line-height: 1.4em;">
