@@ -46,35 +46,35 @@ For a comprehensive list of my publications, please refer to my Curriculum Vitae
   <tr>
     <td><img src="/images/3d_aug.png" width="1200"></td>
     <td style="font-size: 17px; line-height: 1.4em;">
-      <a href="/projects/3d_augmentation_srn" target="_blank"><strong>3D Point Cloud Data Augmentation via Scene Representation Network</strong></a><br/>Pei-Tse Chiang, Meng-Hsun Tsai, <strong>Zhi-Yi Chin</strong>, Chieh-Ming Jiang.<br/><i>2021 MediaTek Research Project</i><br/>We design a 3D point cloud augmentation based on a novel view synthesis method, scene representation networks, and use PointNet to evaluate our augmented point clouds quality. We replace instance object id with image features from ResNet to apply our method on unseen objects and do interpolation later on. Our method is successful in ModelNet10 and generates the augmented data by intra-class interpolation with ShapeNet in the latent space of SRN encoder.<br/><a href="https://drive.google.com/file/d/1XF3-HgFmed018xAC_xDLn8aQQKn7F5xI/view?usp=sharing" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a><a href="https://github.com/joycenerd/3D_Augmentation" target="_blank"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a><a href="https://drive.google.com/file/d/1dHznm4XqJaUoDaTqxrBWyHligGb5O0d4/view?usp=sharing" target="_blank"><i class="fas fa-fw fa-file-powerpoint zoom" aria-hidden="true"></i></a>
+      <a href="/projects/3d_augmentation_srn" target="_blank"><strong>3D Point Cloud Data Augmentation via Scene Representation Network</strong></a><br/>Pei-Tse Chiang, Meng-Hsun Tsai, <strong>Zhi-Yi Chin</strong>, Chieh-Ming Jiang.<br/><i>2021 MediaTek Research Project</i><br/>We design a 3D point cloud augmentation based on a novel view synthesis method, scene representation networks, and use PointNet to evaluate our augmented point clouds quality. We replace instance object id with image features from ResNet to apply our method on unseen objects and do interpolation later on. Our method is successful in ModelNet10 and generates the augmented data by intra-class interpolation with ShapeNet in the latent space of SRN encoder.<br/><a href="https://drive.google.com/file/d/1uj0xxigCOHl6FNxDuvNgWL_VeG-HFCly/view?usp=sharing" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a><a href="https://github.com/joycenerd/3D_Augmentation" target="_blank"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a><a href="https://drive.google.com/file/d/1Cdytp730mb8V3v3BAAi97CZbcM3NA87D/view?usp=sharing" target="_blank"><i class="fas fa-fw fa-file-powerpoint zoom" aria-hidden="true"></i></a>
     </td>
   </tr>
 
   <tr>
     <td><img src="/images/rsna_detect.png" width="1000"></td>
     <td style="font-size: 17px; line-height: 1.4em;">
-      <a href="/projects/rsna_detect" target="_blank"><strong>RSNA Pneumonia Detection</strong></a><br/><strong>Zhi-Yi Chin</strong>, Chieh-Ming Jiang.<br/>Final project in <i>Setected Topics in Visual Recognition Using Deep Learning 2021 Fall</i><br/>We design a two stage method for RSNA Pneumonia detection challenge held on Kaggle. We get the best results by using EfficientNet as classification model with 0.2 classification probability threshold when testing, and YOLOR as detection model. At last, we boost the final accuracy 2% by resizing the predicted bounding box to 87.5% of the original size.<br/><a href="https://drive.google.com/file/d/1S0MRRq2Ej19p18ZYs3y1Lb5WDHZN7xLV/view?usp=sharing" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a><a href="https://github.com/joycenerd/rsna-pneumonia-detection" target="_blank"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a><a href="https://drive.google.com/file/d/1iMC_G35EuJ9ObWxtH5yVydpKOANabI_2/view?usp=sharing" target="_blank"><i class="fas fa-fw fa-file-powerpoint zoom" aria-hidden="true"></i></a>
+      <a href="/projects/rsna_detect" target="_blank"><strong>RSNA Pneumonia Detection</strong></a><br/><strong>Zhi-Yi Chin</strong>, Chieh-Ming Jiang.<br/>Final project in <i>Setected Topics in Visual Recognition Using Deep Learning 2021 Fall</i><br/>We design a two stage method for RSNA Pneumonia detection challenge held on Kaggle. We get the best results by using EfficientNet as classification model with 0.2 classification probability threshold when testing, and YOLOR as detection model. At last, we boost the final accuracy 2% by resizing the predicted bounding box to 87.5% of the original size.<br/><a href="https://drive.google.com/file/d/1g-s4WcjNWEPWcGRiJxP63p-qHsCACA85/view?usp=sharing" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a><a href="https://github.com/joycenerd/rsna-pneumonia-detection" target="_blank"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a><a href="https://drive.google.com/file/d/1OqvRcEXAysqEgvrP4zpqrZL6ah_BOiFq/view?usp=sharing" target="_blank"><i class="fas fa-fw fa-file-powerpoint zoom" aria-hidden="true"></i></a>
     </td>
   </tr>
 
   <tr>
     <td><img src="/images/genaug.png" width="500"></td>
     <td style="font-size: 17px; line-height: 1.4em;">
-      <a href="/projects/gen_aug" target="_blank"><strong>Generative Models as a Data Augmentation for Classification</strong></a><br/><strong>Zhi-Yi Chin</strong>, Chieh-Ming Jiang.<br/>Final project in <i>Deep Learning and Practice 2021 Summer</i><br/>We investigate image transformation by exploring walks in the latent space of GAN, which is called GAN steer. We conclude that GAN steerability is a better data augmentation technique compare to transformation done in the data space.<br/><a href="https://github.com/joycenerd/genrep_aug" target="_blank"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a><a href="https://youtu.be/y-v_K0sf_lA" target="_blank"><i class="fab fa-fw fa-youtube zoom" aria-hidden="true"></i></a><a href="https://drive.google.com/file/d/1CFHCO4EvMaI3SkhEwThPgjzAdbFhxJF-/view?usp=sharing" target="_blank"><i class="fas fa-fw fa-file-powerpoint zoom" aria-hidden="true"></i></a>
+      <a href="/projects/gen_aug" target="_blank"><strong>Generative Models as a Data Augmentation for Classification</strong></a><br/><strong>Zhi-Yi Chin</strong>, Chieh-Ming Jiang.<br/>Final project in <i>Deep Learning and Practice 2021 Summer</i><br/>We investigate image transformation by exploring walks in the latent space of GAN, which is called GAN steer. We conclude that GAN steerability is a better data augmentation technique compare to transformation done in the data space.<br/><a href="https://github.com/joycenerd/genrep_aug" target="_blank"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a><a href="https://youtu.be/y-v_K0sf_lA" target="_blank"><i class="fab fa-fw fa-youtube zoom" aria-hidden="true"></i></a><a href="https://drive.google.com/file/d/1LViCGgTvfYHlhE0VJatURyPo5lhOKWFF/view?usp=sharing" target="_blank"><i class="fas fa-fw fa-file-powerpoint zoom" aria-hidden="true"></i></a>
     </td>
   </tr>
 
   <tr>
     <td><img src="/images/hopper_mse.gif" width="500"></td>
     <td style="font-size: 17px; line-height: 1.4em;">
-      <a href="/projects/mpo" target="_blank"><strong>Reimplemenatation Challenge -- Maximum a Posteriori Policy Optimisation</strong></a><br/><strong>Zhi-Yi Chin</strong>,Yi-Hsin Chen, Yu-Hsuan Li, Yu-Jie Chen.<br/>Reimplementation project in <i>Reinforcement Learning 2021 Spring</i><br/>Apart from replicating the algorithm from the paper, we also apply numerical tricks to stabilize the training process. Moreover, We are considering improving the method by modifying the E-step.<br/><a href="/files/Replication__MAXIMUM_A_POSTERIORI_POLICY_OPTIMISATION.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a><a href="https://github.com/joycenerd/MPO_Reimplementation" target="_blank"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a><a href="https://drive.google.com/file/d/1B-7gZG1zGAiyXOhbjj3MUnvqWFNYPmlD/view?usp=sharing" target="_blank"><i class="fas fa-fw fa-file-powerpoint zoom" aria-hidden="true"></i></a>
+      <a href="/projects/mpo" target="_blank"><strong>Reimplemenatation Challenge -- Maximum a Posteriori Policy Optimisation</strong></a><br/><strong>Zhi-Yi Chin</strong>,Yi-Hsin Chen, Yu-Hsuan Li, Yu-Jie Chen.<br/>Reimplementation project in <i>Reinforcement Learning 2021 Spring</i><br/>Apart from replicating the algorithm from the paper, we also apply numerical tricks to stabilize the training process. Moreover, We are considering improving the method by modifying the E-step.<br/><a href="/files/Replication__MAXIMUM_A_POSTERIORI_POLICY_OPTIMISATION.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a><a href="https://github.com/joycenerd/MPO_Reimplementation" target="_blank"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a><a href="https://drive.google.com/file/d/1Eg82wP1eTgBJmYD02rUB9FfDlG71TxDL/view?usp=sharing" target="_blank"><i class="fas fa-fw fa-file-powerpoint zoom" aria-hidden="true"></i></a>
     </td>
   </tr>
 
   <tr>
     <td><img src="/images/lane_dl.png" width="500"></td>
     <td style="font-size: 17px; line-height: 1.4em;">
-      <a href="/projects/lane_detection" target="_blank"><strong>Lane Detection</strong></a><br/><strong>Zhi-Yi Chin</strong>, Shao-Yu Weng, Bo-Yu Cheng.<br/>Final project in <i>Computer Vision 2021 Spring</i><br/>We modify two traditional methods and successfully detect more than 2 lanes with accuracy over 70%. We reach high accuracy by apply hourglass network and double hinge loss.<br/><a href="https://drive.google.com/file/d/1LJV8mI4OWEzkpZuscK6ivi0CG5hXPYjl/view?usp=sharing" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a><a href="https://github.com/joycenerd/CV-Lane_Detection" target="_blank"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a><a href="https://youtu.be/9Lgm3DqLSRM" target="_blank"><i class="fab fa-fw fa-youtube zoom" aria-hidden="true"></i></a><a href="https://drive.google.com/file/d/1cSbJufF0toUBbvIdfA6lWSeHp_4uOVgO/view?usp=sharing" target="_blank"><i class="fas fa-fw fa-file-powerpoint zoom" aria-hidden="true"></i></a>
+      <a href="/projects/lane_detection" target="_blank"><strong>Lane Detection</strong></a><br/><strong>Zhi-Yi Chin</strong>, Shao-Yu Weng, Bo-Yu Cheng.<br/>Final project in <i>Computer Vision 2021 Spring</i><br/>We modify two traditional methods and successfully detect more than 2 lanes with accuracy over 70%. We reach high accuracy by apply hourglass network and double hinge loss.<br/><a href="https://drive.google.com/file/d/11XbZgK_WvihPy7RuHv0DWH3Pi10cIXy9/view?usp=sharing" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a><a href="https://github.com/joycenerd/CV-Lane_Detection" target="_blank"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a><a href="https://youtu.be/9Lgm3DqLSRM" target="_blank"><i class="fab fa-fw fa-youtube zoom" aria-hidden="true"></i></a><a href="https://drive.google.com/file/d/19n0WHtery-_m7dZiS988bwG1-AflbyhZ/view?usp=sharing" target="_blank"><i class="fas fa-fw fa-file-powerpoint zoom" aria-hidden="true"></i></a>
     </td>
   </tr>
 
@@ -110,6 +110,9 @@ For a comprehensive list of my publications, please refer to my Curriculum Vitae
 
 ### Books I enjoy
 
+* **The Ride of a Lifetime** by Robert Iger
+* **Becoming** by Michelle Obama
+* **What We Owe the Future** by William MacAskill
 * **Atomic Habits** by James Clear
 * **Make Time** by Jake Knapp and John Zeratsky
 * **Show Your Work** by Austin Kleon
@@ -117,9 +120,8 @@ For a comprehensive list of my publications, please refer to my Curriculum Vitae
 ### TV shows I enjoy
 
 * Grey's Anatomy
-* Black Dog: Being A Teacher
-* Start-Up
-* Live On
+* Lessons in Chemistry
+* The Morning Show
 * Hospital Playlist
 
 
