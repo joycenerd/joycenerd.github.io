@@ -12,7 +12,8 @@ I am a research assistant at National Yang Ming Chiao Tung University (NYCU) in 
 
 My academic journey led me to NYCU, where I completed my Master of Science degree under the guidance of Professor [Wei-Chen (Walon) Chiu](https://walonchiu.github.io). Prior to that, I earned my Bachelor of Science degree from National Chung Cheng University, where I had the privilege of being advised by Professor [Chen-Kuo (Adrian) Chiang](https://www.cs.ccu.edu.tw/~ckchiang/).
 
-I am passionate about advancing the field of machine learning and model safety, and I am committed to making meaningful contributions to this exciting and rapidly evolving field. Please feel free to explore my academic journey and research interests on this website. 
+I am passionate about advancing the field of machine learning and model safety, and I am committed to making meaningful contributions to this exciting and rapidly evolving field. Please feel free to explore my academic journey and research interests on this website, including my [Curriculum Vitae](/files/CV.pdf). I'm currently seeking a **Ph.D. position in machine learning and model safety**. Should my research resonate with you,  I welsome you to reach out at `joycenerd.cs09[AT]nycu.edu.tw` for any potential collaboration or discussion.
+
 
 ## Publications
 For a comprehensive list of my publications, please refer to my Curriculum Vitae (CV). \
