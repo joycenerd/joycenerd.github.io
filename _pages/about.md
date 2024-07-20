@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant at National Yang Ming Chiao Tung University (NYCU) in Taiwan, where I specialize in the field of machine learning model safety, with a particular focus on multimodal applications. I have had the privilege of working alongside Professor [Wei-Chen (Walon) Chiu](https://walonchiu.github.io) at NYCU and collaborating with Dr. [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage) on cutting-edge research in this domain.
+I am a research assistant at National Yang Ming Chiao Tung University (NYCU) in Taiwan, where I specialize in the field of multimodal generative model applications, with a particular focus on machine learning model safety. I have had the privilege of working alongside Professor [Wei-Chen (Walon) Chiu](https://walonchiu.github.io) at NYCU and collaborating with Dr. [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage) and Dr. [Mario Fritz](https://cispa.saarland/group/fritz/) on cutting-edge research in this domain.
 
 My academic journey led me to NYCU, where I completed my Master of Science degree under the guidance of Professor [Wei-Chen (Walon) Chiu](https://walonchiu.github.io). Prior to that, I earned my Bachelor of Science degree from National Chung Cheng University, where I had the privilege of being advised by Professor [Chen-Kuo (Adrian) Chiang](https://www.cs.ccu.edu.tw/~ckchiang/).
 
 I am passionate about advancing the field of machine learning and model safety, and I am committed to making meaningful contributions to this exciting and rapidly evolving field. Please feel free to explore my academic journey and research interests on this website, including my [Curriculum Vitae](/files/CV.pdf). I'm currently seeking a **Ph.D. position in machine learning and model safety**. Should my research resonate with you,  I welcome you to reach out at **joycenerd.cs09[AT]nycu.edu.tw** for any potential collaboration or discussion.
+
+**🎉 I will be in Vienna from July 21 to July 28 to attend ICML 2024. Feel free to reach out to grab a coffee and chat**
+
 ## Publications
 For a comprehensive list of my publications, please refer to my Curriculum Vitae (CV). \
 ($^\dagger$ indicates equal contribution)
@@ -20,7 +23,7 @@ For a comprehensive list of my publications, please refer to my Curriculum Vitae
   <tr>
     <td><img src="/images/p4d_teaser.png" width="200"></td>
     <td style="font-size: 17px; line-height: 1.4em;">
-      <a href="https://arxiv.org/abs/2309.06135" target="_blank"><strong>Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding Problematic Prompts</strong></a><br/><strong>Zhi-Yi Chin</strong><sup>&dagger;</sup>, Chieh-Ming Jiang<sup>&dagger;</sup>, Pin-Yu Chen, Ching-Chun Huang, Wei-Chen Chiu<br/><i>arXiv 2023</i><br/><a href="https://joycenerd.github.io/prompting4debugging/" target="_blank"><i class="fa fa-fw fa-home zoom" aria-hidden="true"></i></a><a href="https://github.com/joycenerd/P4D" target="_blank"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+      <a href="https://arxiv.org/abs/2309.06135" target="_blank"><strong>Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding Problematic Prompts</strong></a><br/><strong>Zhi-Yi Chin</strong><sup>&dagger;</sup>, Chieh-Ming Jiang<sup>&dagger;</sup>, Pin-Yu Chen, Ching-Chun Huang, Wei-Chen Chiu<br/><i>In ICML 2024</i><br/><a href="https://joycenerd.github.io/prompting4debugging/" target="_blank"><i class="fa fa-fw fa-home zoom" aria-hidden="true"></i></a><a href="https://github.com/joycenerd/P4D" target="_blank"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a><a href="https://huggingface.co/datasets/joycenerd/p4d" target="_blank"><img src="/assets/icons/hf-logo.svg" style="width: 24px; height: 24px;"></a>
     </td>
   </tr>
 
