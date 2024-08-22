@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 redirect_to:
-    - /files/ZhiYi_Chin_CV_20230918.pdf
+    - /files/CV.pdf
 ---
 
 Last update: 2022/03/05
