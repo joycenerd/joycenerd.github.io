@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 redirect_to:
-    - /files/CV.pdf
+    - /files/zchin_CV.pdf
 ---
 
-Last update: 2022/03/05
+Last update: 2024/10/06
